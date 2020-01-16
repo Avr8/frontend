@@ -1,0 +1,29 @@
+body{
+  margin: 0px;
+  padding:0px;
+  background-color: black;
+  color: #ffffff;
+  font: serif;
+}
+#msrit{
+  text-align: center;
+}
+.flex-container{
+  display:flex;
+  flex-direction: row;
+  justify-content: space-around;
+
+}
+
+#add{
+  border-radius: 20px;
+  background-color: green;
+  font-style: italic;
+  font: serif;
+}
+.break{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  
+}

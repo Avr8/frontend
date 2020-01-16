@@ -1,0 +1,28 @@
+body{
+    margin: 0;
+	padding: 0;
+  background: url('star.jpg');
+	background-size: cover;
+    background-position: center;
+    font-family: serif;
+    color:#ffffff;
+    text-align: center;
+}
+
+.main{
+
+  color: #ffffff;
+  background-color: red;
+  top: 10%;
+	left: 40%;
+	position: absolute;
+  font-size: 25px;
+  box-sizing: border-box;
+	padding: 70px 30px;
+  border-radius: 20px;
+}
+#avi{
+  border-radius: 20px;
+  background-color: yellow;
+
+}
